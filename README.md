@@ -85,3 +85,7 @@ This is a compact single-player adventure. Decorative trees and ruins do not hav
 ## License
 
 MIT. Bundled dependencies and fonts retain their respective licenses.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-breath-of-the-wild-clone-astra-6-ultra/)
