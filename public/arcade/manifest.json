@@ -1,6 +1,77 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-breath-of-the-wild-clone-astra-6-ultra",
   "playUrl": "https://intrepion.github.io/kata-breath-of-the-wild-clone-astra-6-ultra/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "e034893031ce120fadeb437735ebd5a02d729d493a75426cf8ef92a80ea9dbf6",
+      "alt": "Wildreach gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "9ae627d45be186b5a14efe812a68eba0239a3ef0e5a1d017c2611035aac44c5a",
+        "captureCommit": "52a622c152826e386e45eb485731c81157613f53",
+        "workflowRunId": "41440911857",
+        "inputHashes": {
+          "index.html": "abb7ad1997cfb08982d58ae694a87544ee6103d7bd3b9f0f0ea863ad78d9e0ed",
+          "assets/cormorant-garamond-latin-400-italic-BLh7T8o8.woff": "337d07118277acbf5a0eb19c602aaf917b2485585360f2c7139ce42d9d4e6cc1",
+          "assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2": "e48e58027030df56869b795ca6f19b7012158275f7ad7cde1900b4a0b68d02e2",
+          "assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2",
+          "assets/cormorant-garamond-latin-400-normal-B7YtguxJ.woff": "b926f33f9d3d5cb64e639b8fe9ad5380560a63f3e7a29d212f2b80a2d22ec051",
+          "assets/cormorant-garamond-latin-500-normal-BsRWmXhO.woff2": "8197bf53615ddc8c423f444c7f0eec63b7fa0ba093fcfbec60dfdd28429b0fc8",
+          "assets/cormorant-garamond-latin-500-normal-zIXX3Q-H.woff": "314ee3edd5ddcdef5cf2374c1126b8be9f7f1ebd6c5c66a23c237f3b836a3ec1",
+          "assets/index-C4nOGj8T.css": "2f4b5b3177f23514008c88bb581820e988c660896be761c96c54ee4bf51f38b2",
+          "assets/index-CJPmjhrc.js": "04321e5d5a6f64d9980778f3c141aafbef1eb1168cb422cc51c837b397e6249c",
+          "assets/manrope-latin-400-normal-8tf8FM3T.woff": "1bf66c29a29f1b71d507cb97fc138cd130b856ed05b55decd3a2944b413cb636",
+          "assets/manrope-latin-400-normal-PaqtzbVb.woff2": "849290ef12a2eeb9af5c11924120d11aa4ae8b435ed3347d7fc8bc240c293ca3",
+          "assets/manrope-latin-500-normal-BYYD-dBL.woff2": "19874318747181a650eda439c37955220b849d9c4797c9e0718ee67d4bf929bc",
+          "assets/manrope-latin-500-normal-DMZssgOp.woff": "c805ac8fd73fb95ddba74e624500c7d7d9a8ec6434d723bb6a9b76173c9e41b4",
+          "assets/manrope-latin-600-normal-4f0koTD-.woff2": "f7ac6258da20ab7541939b59851155753d1d24f1b30cbcb949077a3faa3d1593",
+          "assets/manrope-latin-600-normal-BqgrALkZ.woff": "8d1f509774bca963fa02faf674678ce9244474306361ca2798583fa600346df6",
+          "assets/manrope-latin-700-normal-BZp_XxE4.woff2": "d2a12c85a831e4b5db341767d0347fa3d1361d22a1fcb3e361a16b6c90080f71",
+          "assets/manrope-latin-700-normal-DGRFkw-m.woff": "e5d35fda4759b0d63ebcc6cca0627d98d9208254ce851c85df29e4d12aeafb61",
+          "assets/three-DyHSvP4H.js": "4bb3097539643f11bff14c2ca6911d1ac82aeb5d55ad966182e7fb1eba9ccaf5"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "472fd3723374aa55951996b2bf22ca1109c5d4e6e84265b025bec1c6d2725dab"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "e2b90facb0589523e08ebf6a8ea1359c9269dcd2e65d94d959d22be4d4e9bc9c",
+      "alt": "Wildreach gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "46aafc237074539510b1f8f9a0cc9c092ab6b669bcc54f4598c194c85e27df6b",
+        "captureCommit": "52a622c152826e386e45eb485731c81157613f53",
+        "workflowRunId": "41440911857",
+        "inputHashes": {
+          "index.html": "abb7ad1997cfb08982d58ae694a87544ee6103d7bd3b9f0f0ea863ad78d9e0ed",
+          "assets/cormorant-garamond-latin-400-italic-BLh7T8o8.woff": "337d07118277acbf5a0eb19c602aaf917b2485585360f2c7139ce42d9d4e6cc1",
+          "assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2": "e48e58027030df56869b795ca6f19b7012158275f7ad7cde1900b4a0b68d02e2",
+          "assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2",
+          "assets/cormorant-garamond-latin-400-normal-B7YtguxJ.woff": "b926f33f9d3d5cb64e639b8fe9ad5380560a63f3e7a29d212f2b80a2d22ec051",
+          "assets/cormorant-garamond-latin-500-normal-BsRWmXhO.woff2": "8197bf53615ddc8c423f444c7f0eec63b7fa0ba093fcfbec60dfdd28429b0fc8",
+          "assets/cormorant-garamond-latin-500-normal-zIXX3Q-H.woff": "314ee3edd5ddcdef5cf2374c1126b8be9f7f1ebd6c5c66a23c237f3b836a3ec1",
+          "assets/index-C4nOGj8T.css": "2f4b5b3177f23514008c88bb581820e988c660896be761c96c54ee4bf51f38b2",
+          "assets/index-CJPmjhrc.js": "04321e5d5a6f64d9980778f3c141aafbef1eb1168cb422cc51c837b397e6249c",
+          "assets/manrope-latin-400-normal-8tf8FM3T.woff": "1bf66c29a29f1b71d507cb97fc138cd130b856ed05b55decd3a2944b413cb636",
+          "assets/manrope-latin-400-normal-PaqtzbVb.woff2": "849290ef12a2eeb9af5c11924120d11aa4ae8b435ed3347d7fc8bc240c293ca3",
+          "assets/manrope-latin-500-normal-BYYD-dBL.woff2": "19874318747181a650eda439c37955220b849d9c4797c9e0718ee67d4bf929bc",
+          "assets/manrope-latin-500-normal-DMZssgOp.woff": "c805ac8fd73fb95ddba74e624500c7d7d9a8ec6434d723bb6a9b76173c9e41b4",
+          "assets/manrope-latin-600-normal-4f0koTD-.woff2": "f7ac6258da20ab7541939b59851155753d1d24f1b30cbcb949077a3faa3d1593",
+          "assets/manrope-latin-600-normal-BqgrALkZ.woff": "8d1f509774bca963fa02faf674678ce9244474306361ca2798583fa600346df6",
+          "assets/manrope-latin-700-normal-BZp_XxE4.woff2": "d2a12c85a831e4b5db341767d0347fa3d1361d22a1fcb3e361a16b6c90080f71",
+          "assets/manrope-latin-700-normal-DGRFkw-m.woff": "e5d35fda4759b0d63ebcc6cca0627d98d9208254ce851c85df29e4d12aeafb61",
+          "assets/three-DyHSvP4H.js": "4bb3097539643f11bff14c2ca6911d1ac82aeb5d55ad966182e7fb1eba9ccaf5"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "472fd3723374aa55951996b2bf22ca1109c5d4e6e84265b025bec1c6d2725dab"
+      }
+    }
+  ]
 }
