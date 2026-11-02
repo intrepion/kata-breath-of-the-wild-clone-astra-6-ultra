@@ -89,3 +89,7 @@ MIT. Bundled dependencies and fonts retain their respective licenses.
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-breath-of-the-wild-clone-astra-6-ultra/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
